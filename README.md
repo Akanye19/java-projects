@@ -4,8 +4,8 @@
 A java console application that allows users to:
 - Enter a student's name.
 - Enter marks for programming, business and logic.
-- calculate the average.
-- display whether the student passed or failed.
+- Calculate the average.
+- Display whether the student passed or failed.
 
   ## Skills used
   - Java
@@ -15,7 +15,7 @@ A java console application that allows users to:
   - User Input
   - Calculations
 
-    ## What I Learned
+ ## What I Learned
     - Creating Java classes
     - Using Scanner for input
     - Working with variables
