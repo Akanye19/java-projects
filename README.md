@@ -6,6 +6,8 @@ A java console application that allows users to:
 - Enter marks for programming, business and logic.
 - Calculate the average.
 - Display whether the student passed or failed.
+- Display letter grade (A-F).
+- Validate user input (0-100).
 
  ## Skills used
   - Java
@@ -21,3 +23,4 @@ A java console application that allows users to:
     - Working with variables
     - Using conditional statements
     - Calculating averages
+    - Do-While Loops
