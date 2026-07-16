@@ -7,7 +7,7 @@ A java console application that allows users to:
 - Calculate the average.
 - Display whether the student passed or failed.
 
-  ## Skills used
+ ## Skills used
   - Java
   - Scanner
   - Variables
